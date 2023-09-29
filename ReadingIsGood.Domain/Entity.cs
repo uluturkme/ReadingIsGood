@@ -11,4 +11,9 @@ public abstract class Entity
     {
         CreatedOnUtc = DateTime.UtcNow;
     }
+
+    public void Update()
+    {
+        UpdatedOnUtc = DateTime.UtcNow;
+    }
 }

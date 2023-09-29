@@ -6,5 +6,6 @@ public static class ServiceConfigurationExtensions
     {
         services.AddScoped<ICustomersRepository, CustomersRepository>();
         services.AddScoped<IBooksRepository, BooksRepository>();
+        services.AddScoped<IOrdersRepository, OrdersRepository>();
     }
 }
