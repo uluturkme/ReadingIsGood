@@ -1,0 +1,102 @@
+{
+	"info": {
+		"_postman_id": "d0720772-36b0-45e5-ae7e-5d91496a87f4",
+		"name": "ReadingIsGood",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CreateCustomer",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"firstName\": \"Mehmet\",\n    \"lastName\": \"Ulutürk\",\n    \"email\": \"uluturkmehmet92@gmail.com\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/v1/customers/create",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"customers",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreateBook",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"title\": \"Nutuk\",\n  \"description\": \"Nutuk, Atatürk'ün Kurtuluş Savaşı dönemini birinci ağızdan aktardığı, Cumhuriyet tarihi açısından önemli bir eserdir\",\n  \"price\": 20.5,\n  \"quantity\": 20\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/v1/books/create",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"books",
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PlaceOrder",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"customerId\": \"fb5eeab0-596b-4e3b-a474-c6268c02f746\",\n  \"items\": [\n    {\n      \"bookId\": \"d145d172-7af6-4068-9acf-b84cc22ef9ba\",\n      \"quantity\": 2\n    },\n    {\n      \"bookId\": \"41d9df9a-5e95-4b9a-9140-25914e8937ad\",\n      \"quantity\": 2\n    }\n  ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/v1/orders/placeorder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"placeorder"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

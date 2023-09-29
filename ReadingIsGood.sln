@@ -16,6 +16,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{A0C1BD80-10A3-4D4F-8448-8B83A9848B6F}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
+		ReadingIsGood.postman_collection.json = ReadingIsGood.postman_collection.json
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F23A2708-FE12-4C45-8CD4-BDECFF926483}"
