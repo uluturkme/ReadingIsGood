@@ -1,0 +1,28 @@
+services:
+  postgresql:
+    container_name: postgresql
+    restart: unless-stopped
+    image: postgres:latest
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=admin
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+  
+  reading-is-good-api:
+    container_name: reading-is-good-api
+    restart: unless-stopped
+    image: reading-is-good-api
+    build:
+      context: .
+      dockerfile: ./ReadingIsGood.API/Dockerfile
+    ports:
+      - "3000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=host.docker.internal;Port=5432;Database=readingisgood_dev;User Id=postgres;Password=admin;
+      - ConnectionStrings__ReadOnlyConnection=Server=host.docker.internal;Port=5432;Database=readingisgood_dev;User Id=postgres;Password=admin;
+    depends_on:
+      - postgresql

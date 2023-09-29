@@ -1,0 +1,17 @@
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.AssemblyInfoInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.AssemblyInfo.cs
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/bin/Debug/net7.0/ReadingIsGood.Infrastructure.deps.json
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/bin/Debug/net7.0/ReadingIsGood.Infrastructure.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/bin/Debug/net7.0/ReadingIsGood.Infrastructure.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/bin/Debug/net7.0/ReadingIsGood.Domain.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/bin/Debug/net7.0/ReadingIsGood.Domain.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.csproj.AssemblyReference.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.csproj.CopyComplete
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/refint/ReadingIsGood.Infrastructure.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ReadingIsGood.Infrastructure.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/Debug/net7.0/ref/ReadingIsGood.Infrastructure.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/bin/Debug/net7.0/ReadingIsGood.Data.Migrations.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/bin/Debug/net7.0/ReadingIsGood.Data.Migrations.pdb

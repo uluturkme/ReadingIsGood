@@ -1,0 +1,12 @@
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/bin/Debug/net7.0/ReadingIsGood.Data.Migrations.deps.json
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/bin/Debug/net7.0/ReadingIsGood.Data.Migrations.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/bin/Debug/net7.0/ReadingIsGood.Data.Migrations.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ReadingIsGood.Data.Migrations.csproj.AssemblyReference.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ReadingIsGood.Data.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ReadingIsGood.Data.Migrations.AssemblyInfoInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ReadingIsGood.Data.Migrations.AssemblyInfo.cs
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ReadingIsGood.Data.Migrations.csproj.CoreCompileInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ReadingIsGood.Data.Migrations.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/refint/ReadingIsGood.Data.Migrations.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ReadingIsGood.Data.Migrations.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/Debug/net7.0/ref/ReadingIsGood.Data.Migrations.dll

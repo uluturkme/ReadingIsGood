@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/ReadingIsGood.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/ReadingIsGood.Data.Migrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/ReadingIsGood.Data.Migrations.csproj",
+        "projectName": "ReadingIsGood.Data.Migrations",
+        "projectPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/ReadingIsGood.Data.Migrations.csproj",
+        "packagesPath": "/Users/mu/.nuget/packages/",
+        "outputPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/ReadingIsGood.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/ReadingIsGood.Domain.csproj",
+        "projectName": "ReadingIsGood.Domain",
+        "projectPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/ReadingIsGood.Domain.csproj",
+        "packagesPath": "/Users/mu/.nuget/packages/",
+        "outputPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/ReadingIsGood.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/ReadingIsGood.Infrastructure.csproj",
+        "projectName": "ReadingIsGood.Infrastructure",
+        "projectPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/ReadingIsGood.Infrastructure.csproj",
+        "packagesPath": "/Users/mu/.nuget/packages/",
+        "outputPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/ReadingIsGood.Data.Migrations.csproj": {
+                "projectPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Data.Migrations/ReadingIsGood.Data.Migrations.csproj"
+              },
+              "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/ReadingIsGood.Domain.csproj": {
+                "projectPath": "/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/ReadingIsGood.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

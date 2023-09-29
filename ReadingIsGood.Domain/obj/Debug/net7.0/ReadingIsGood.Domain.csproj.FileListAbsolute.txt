@@ -1,0 +1,11 @@
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/ReadingIsGood.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/ReadingIsGood.Domain.AssemblyInfoInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/ReadingIsGood.Domain.AssemblyInfo.cs
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/ReadingIsGood.Domain.csproj.CoreCompileInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/bin/Debug/net7.0/ReadingIsGood.Domain.deps.json
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/bin/Debug/net7.0/ReadingIsGood.Domain.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/bin/Debug/net7.0/ReadingIsGood.Domain.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/ReadingIsGood.Domain.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/refint/ReadingIsGood.Domain.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/ReadingIsGood.Domain.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Domain/obj/Debug/net7.0/ref/ReadingIsGood.Domain.dll

@@ -1,0 +1,11 @@
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/bin/Debug/net7.0/ReadingIsGood.Common.deps.json
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/bin/Debug/net7.0/ReadingIsGood.Common.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/bin/Debug/net7.0/ReadingIsGood.Common.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/ReadingIsGood.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/ReadingIsGood.Common.AssemblyInfoInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/ReadingIsGood.Common.AssemblyInfo.cs
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/ReadingIsGood.Common.csproj.CoreCompileInputs.cache
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/ReadingIsGood.Common.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/refint/ReadingIsGood.Common.dll
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/ReadingIsGood.Common.pdb
+/Users/mu/Documents/Projects/ReadingIsGood/ReadingIsGood.Common/obj/Debug/net7.0/ref/ReadingIsGood.Common.dll
